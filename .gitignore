@@ -1,0 +1,7 @@
+
+# textgen model
+text-generation-webui/models/Llama-3-Open-Ko-8B-Instruct-PM1-150-gguf
+
+# local/hf model 
+llama3_ft/data
+llama3_ft/modeling
