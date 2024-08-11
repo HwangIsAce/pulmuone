@@ -1,7 +1,10 @@
 
 # textgen model
-text-generation-webui/models/Llama-3-Open-Ko-8B-Instruct-PM1-150-gguf
+text-generation-webui/models/*
 
 # local/hf model 
-llama3_ft/data
-llama3_ft/modeling
+llama3_ft/*/data
+llama3_ft/*/modeling/*.cpp
+llama3_ft/*/modeling/outputs
+llama3_ft/*/modeling/passionMan/
+
