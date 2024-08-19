@@ -8,3 +8,4 @@ llama3_ft/*/modeling/*.cpp
 llama3_ft/*/modeling/outputs
 llama3_ft/*/modeling/passionMan/
 
+alpaca_rec_tuning/*/data
