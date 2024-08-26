@@ -2,10 +2,10 @@
 # textgen model
 text-generation-webui/models/*
 
-# local/hf model 
-llama3_ft/*/data
-llama3_ft/*/modeling/*.cpp
-llama3_ft/*/modeling/outputs
-llama3_ft/*/modeling/passionMan/
-
+# data
 alpaca_rec_tuning/*/data
+
+# data
+instruction_tuning_2/*_completion/data/*
+
+# model
