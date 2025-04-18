@@ -1,3 +1,5 @@
+# .env
+.env
 
 # textgen model
 text-generation-webui/models/*
@@ -8,4 +10,13 @@ alpaca_rec_tuning/*/data
 # data
 instruction_tuning_2/*_completion/data/*
 
-# model
+# agent_1
+/agent_1
+
+# agent_2
+/agent_2/ollama-modelfile/*
+/agent_2/data
+/agent_2/font
+/agent_2/vectordb
+/agent_2/vectordb_2
+/agent_2/*.json
